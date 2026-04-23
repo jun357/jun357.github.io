@@ -1,6 +1,6 @@
-<h1>web or game developer</h1>
+<h1>game developer</h1>
 
-<span>대한민국 문화유산 인식 & LLM 대화 시스템[complete]</span>
+대한민국 문화유산 인식 & LLM 대화 시스템[complete]
 
 
 스텔스 잠입 액션 게임[on going]
