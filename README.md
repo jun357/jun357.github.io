@@ -3,7 +3,7 @@
 
 대한민국 문화유산 인식 & LLM 대화 시스템<span style="color: #72CC50;">[complete]</span>
 
-* 
+* <span style="color: #FF6B3D;">PRIVATE</span>
 
 스텔스 잠입 액션 게임<span style="color: #FFC5D3;">[on going]</span>
 
