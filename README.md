@@ -5,10 +5,10 @@
 
 * <span style="color: #FF6B3D;">PRIVATE</span>
 
-스텔스 잠입 액션 게임<span style="color: #FFC5D3;">[on going]</span>
+스텔스 잠입 액션 게임<span style="color: #FFC5D3;">[complete]</span>
 
 * https://github.com/jun357/GamePrograming
 
-무협 턴제 로그라이트 게임<span style="color: #FFC5D3;">[on going]</span>
+무협 턴제 로그라이트 게임<span style="color: #FFC5D3;">[complete]</span>
 
 * https://github.com/CapstoneDesign13/webgame
